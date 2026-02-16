@@ -1,0 +1,1387 @@
+annotations:
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#E41B1B'
+    rotation: 0
+    text_bold: false
+    text_content: |-
+      Loopback:
+      10.255.255.1
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -256.2336144798744
+    y1: -283.2657378201629
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#E41B1B'
+    rotation: 0
+    text_bold: false
+    text_content: |-
+      Loopback:
+      10.255.255.2
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 258.4892451048902
+    y1: -281.2681003997554
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#E41B1B'
+    rotation: 0
+    text_bold: false
+    text_content: |-
+      Loopback:
+      10.255.0.1
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -352.76509608045797
+    y1: 133.4818969417718
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#E41B1B'
+    rotation: 0
+    text_bold: false
+    text_content: |-
+      Loopback:
+      10.255.0.2
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 100.67110989479721
+    y1: 125.8466929308403
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#E41B1B'
+    rotation: 0
+    text_bold: false
+    text_content: |-
+      Loopback:
+      10.255.0.3
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 388.8500322461397
+    y1: 124.4779121836077
+    z_index: 0
+  - border_color: '#808080FF'
+    border_radius: 0
+    border_style: ''
+    color: '#DFD836FF'
+    rotation: 0
+    thickness: 1
+    type: rectangle
+    x1: -479.5797213138638
+    y1: 262.72886722578767
+    x2: 529.7224532204386
+    y2: 300.65328426024905
+    z_index: 1
+  - border_color: '#808080FF'
+    border_radius: 0
+    border_style: ''
+    color: '#A929C9FF'
+    rotation: 0
+    thickness: 1
+    type: rectangle
+    x1: 78.38827512650587
+    y1: 259.9363416453465
+    x2: 529.7224532204386
+    y2: 300.65328426024905
+    z_index: 1
+  - border_color: '#40D51F00'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: 192.168.1.0/24
+    text_font: monospace
+    text_italic: false
+    text_size: 14
+    text_unit: pt
+    thickness: 8
+    type: text
+    x1: -222.8113094781021
+    y1: 272.2157678322054
+    z_index: 2
+  - border_color: '#40D51F00'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: 192.168.2.0/24
+    text_font: monospace
+    text_italic: false
+    text_size: 14
+    text_unit: pt
+    thickness: 8
+    type: text
+    x1: 203.24096969746265
+    y1: 275.298200151482
+    z_index: 2
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: '.1'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -397.1445405822655
+    y1: 488.8239119189741
+    z_index: 3
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: '.2'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -293.16854588182906
+    y1: 489.78771176277553
+    z_index: 3
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: '.3'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -101.36110082994584
+    y1: 488.5828338201215
+    z_index: 3
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: '.4'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -7.144156168558982
+    y1: 487.37795587746757
+    z_index: 3
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: '.5'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 132.61502200839286
+    y1: 486.17307793481353
+    z_index: 3
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: '.6'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 227.91630556300746
+    y1: 481.71518331247637
+    z_index: 3
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: '.7'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 416.4707339352074
+    y1: 479.4259664765946
+    z_index: 3
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: '.8'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 504.1816452372278
+    y1: 474.96807185425735
+    z_index: 3
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#E41B1B'
+    rotation: 0
+    text_bold: false
+    text_content: 10.1.1.0/31
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -283.28895679335307
+    y1: -56.598551374577696
+    z_index: 4
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#E41B1B'
+    rotation: 0
+    text_bold: false
+    text_content: 10.2.1.0/31
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -129.43337300444065
+    y1: 57.13649336490843
+    z_index: 4
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#E41B1B'
+    rotation: 0
+    text_bold: false
+    text_content: 10.1.2.0/31
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -31.96341166337055
+    y1: 1.714670760867557
+    z_index: 4
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#E41B1B'
+    rotation: 0
+    text_bold: false
+    text_content: 10.2.2.0/31
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 67.675227464155
+    y1: 31.955620721817922
+    z_index: 4
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#E41B1B'
+    rotation: 0
+    text_bold: false
+    text_content: 10.1.3.0/31
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 191.16932224269075
+    y1: 62.19657068276828
+    z_index: 4
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#E41B1B'
+    rotation: 0
+    text_bold: false
+    text_content: 10.2.3.0/31
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 264.7838279327506
+    y1: -37.68314654360981
+    z_index: 4
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#4F38FC'
+    rotation: 0
+    text_bold: false
+    text_content: BGP AS 65000
+    text_font: monospace
+    text_italic: false
+    text_size: 19
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -20.428653844380026
+    y1: -167.14083370154506
+    z_index: 5
+smart_annotations: []
+nodes:
+  - boot_disk_size: null
+    configuration:
+      - name: nxos_config.txt
+        content: |-
+          hostname SPINE1
+          # workaround for booting to loader> prompt
+          echo 'from cli import cli' > set_boot.py
+          echo 'import json' >> set_boot.py
+          echo 'import os' >> set_boot.py
+          echo 'import time' >> set_boot.py
+          echo 'bootimage = json.loads(cli("show version | json"))["nxos_file_name"]' >> set_boot.py
+          echo 'set_boot = cli("conf t ; boot nxos {} ; no event manager applet BOOTCONFIG".format(bootimage))' >> set_boot.py
+          echo 'i = 0' >> set_boot.py
+          echo 'while i < 10:' >> set_boot.py
+          echo '    try:' >> set_boot.py
+          echo '        save_config = cli("copy running-config startup-config")' >> set_boot.py
+          echo '        break' >> set_boot.py
+          echo '    except Exception:' >> set_boot.py
+          echo '        i += 1' >> set_boot.py
+          echo '        time.sleep(1)' >> set_boot.py
+          echo 'os.remove("/bootflash/set_boot.py")' >> set_boot.py
+          event manager applet BOOTCONFIG
+           event syslog pattern "Configured from vty"
+           action 1.0 cli python bootflash:set_boot.py
+          # minimum needed config to login
+          no password strength-check
+          username admin role network-admin
+          username admin password cisco role network-admin
+          username cisco role network-admin
+          username cisco password cisco role network-admin
+          terminal color persist
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n0
+    image_definition: null
+    label: SPINE1
+    node_definition: nxosv9000
+    parameters: {}
+    ram: 7200
+    tags: []
+    x: -107
+    y: -264
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: mgmt0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: Ethernet1/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: Ethernet1/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: Ethernet1/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: Ethernet1/4
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i6
+        label: Ethernet1/5
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i7
+        label: Ethernet1/6
+        mac_address: null
+        type: physical
+        slot: 6
+      - id: i8
+        label: Ethernet1/7
+        mac_address: null
+        type: physical
+        slot: 7
+      - id: i9
+        label: Ethernet1/8
+        mac_address: null
+        type: physical
+        slot: 8
+      - id: i10
+        label: Ethernet1/9
+        mac_address: null
+        type: physical
+        slot: 9
+      - id: i11
+        label: Ethernet1/10
+        mac_address: null
+        type: physical
+        slot: 10
+      - id: i12
+        label: Ethernet1/11
+        mac_address: null
+        type: physical
+        slot: 11
+      - id: i13
+        label: Ethernet1/12
+        mac_address: null
+        type: physical
+        slot: 12
+      - id: i14
+        label: Ethernet1/13
+        mac_address: null
+        type: physical
+        slot: 13
+  - boot_disk_size: null
+    configuration:
+      - name: nxos_config.txt
+        content: |-
+          hostname SPINE2
+          # workaround for booting to loader> prompt
+          echo 'from cli import cli' > set_boot.py
+          echo 'import json' >> set_boot.py
+          echo 'import os' >> set_boot.py
+          echo 'import time' >> set_boot.py
+          echo 'bootimage = json.loads(cli("show version | json"))["nxos_file_name"]' >> set_boot.py
+          echo 'set_boot = cli("conf t ; boot nxos {} ; no event manager applet BOOTCONFIG".format(bootimage))' >> set_boot.py
+          echo 'i = 0' >> set_boot.py
+          echo 'while i < 10:' >> set_boot.py
+          echo '    try:' >> set_boot.py
+          echo '        save_config = cli("copy running-config startup-config")' >> set_boot.py
+          echo '        break' >> set_boot.py
+          echo '    except Exception:' >> set_boot.py
+          echo '        i += 1' >> set_boot.py
+          echo '        time.sleep(1)' >> set_boot.py
+          echo 'os.remove("/bootflash/set_boot.py")' >> set_boot.py
+          event manager applet BOOTCONFIG
+           event syslog pattern "Configured from vty"
+           action 1.0 cli python bootflash:set_boot.py
+          # minimum needed config to login
+          no password strength-check
+          username admin role network-admin
+          username admin password cisco role network-admin
+          username cisco role network-admin
+          username cisco password cisco role network-admin
+          terminal color persist
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n1
+    image_definition: null
+    label: SPINE2
+    node_definition: nxosv9000
+    parameters: {}
+    ram: 7200
+    tags: []
+    x: 223
+    y: -263
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: mgmt0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: Ethernet1/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: Ethernet1/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: Ethernet1/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: Ethernet1/4
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i6
+        label: Ethernet1/5
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i7
+        label: Ethernet1/6
+        mac_address: null
+        type: physical
+        slot: 6
+      - id: i8
+        label: Ethernet1/7
+        mac_address: null
+        type: physical
+        slot: 7
+      - id: i9
+        label: Ethernet1/8
+        mac_address: null
+        type: physical
+        slot: 8
+      - id: i10
+        label: Ethernet1/9
+        mac_address: null
+        type: physical
+        slot: 9
+      - id: i11
+        label: Ethernet1/10
+        mac_address: null
+        type: physical
+        slot: 10
+      - id: i12
+        label: Ethernet1/11
+        mac_address: null
+        type: physical
+        slot: 11
+      - id: i13
+        label: Ethernet1/12
+        mac_address: null
+        type: physical
+        slot: 12
+      - id: i14
+        label: Ethernet1/13
+        mac_address: null
+        type: physical
+        slot: 13
+  - boot_disk_size: null
+    configuration:
+      - name: nxos_config.txt
+        content: |-
+          hostname LEAF1
+          # workaround for booting to loader> prompt
+          echo 'from cli import cli' > set_boot.py
+          echo 'import json' >> set_boot.py
+          echo 'import os' >> set_boot.py
+          echo 'import time' >> set_boot.py
+          echo 'bootimage = json.loads(cli("show version | json"))["nxos_file_name"]' >> set_boot.py
+          echo 'set_boot = cli("conf t ; boot nxos {} ; no event manager applet BOOTCONFIG".format(bootimage))' >> set_boot.py
+          echo 'i = 0' >> set_boot.py
+          echo 'while i < 10:' >> set_boot.py
+          echo '    try:' >> set_boot.py
+          echo '        save_config = cli("copy running-config startup-config")' >> set_boot.py
+          echo '        break' >> set_boot.py
+          echo '    except Exception:' >> set_boot.py
+          echo '        i += 1' >> set_boot.py
+          echo '        time.sleep(1)' >> set_boot.py
+          echo 'os.remove("/bootflash/set_boot.py")' >> set_boot.py
+          event manager applet BOOTCONFIG
+           event syslog pattern "Configured from vty"
+           action 1.0 cli python bootflash:set_boot.py
+          # minimum needed config to login
+          no password strength-check
+          username admin role network-admin
+          username admin password cisco role network-admin
+          username cisco role network-admin
+          username cisco password cisco role network-admin
+          terminal color persist
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n2
+    image_definition: null
+    label: LEAF1
+    node_definition: nxosv9000
+    parameters: {}
+    ram: 7200
+    tags: []
+    x: -224
+    y: 150
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: mgmt0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: Ethernet1/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: Ethernet1/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: Ethernet1/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: Ethernet1/4
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i6
+        label: Ethernet1/5
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i7
+        label: Ethernet1/6
+        mac_address: null
+        type: physical
+        slot: 6
+      - id: i8
+        label: Ethernet1/7
+        mac_address: null
+        type: physical
+        slot: 7
+      - id: i9
+        label: Ethernet1/8
+        mac_address: null
+        type: physical
+        slot: 8
+      - id: i10
+        label: Ethernet1/9
+        mac_address: null
+        type: physical
+        slot: 9
+      - id: i11
+        label: Ethernet1/10
+        mac_address: null
+        type: physical
+        slot: 10
+      - id: i12
+        label: Ethernet1/11
+        mac_address: null
+        type: physical
+        slot: 11
+      - id: i13
+        label: Ethernet1/12
+        mac_address: null
+        type: physical
+        slot: 12
+  - boot_disk_size: null
+    configuration:
+      - name: nxos_config.txt
+        content: |-
+          hostname LEAF2
+          # workaround for booting to loader> prompt
+          echo 'from cli import cli' > set_boot.py
+          echo 'import json' >> set_boot.py
+          echo 'import os' >> set_boot.py
+          echo 'import time' >> set_boot.py
+          echo 'bootimage = json.loads(cli("show version | json"))["nxos_file_name"]' >> set_boot.py
+          echo 'set_boot = cli("conf t ; boot nxos {} ; no event manager applet BOOTCONFIG".format(bootimage))' >> set_boot.py
+          echo 'i = 0' >> set_boot.py
+          echo 'while i < 10:' >> set_boot.py
+          echo '    try:' >> set_boot.py
+          echo '        save_config = cli("copy running-config startup-config")' >> set_boot.py
+          echo '        break' >> set_boot.py
+          echo '    except Exception:' >> set_boot.py
+          echo '        i += 1' >> set_boot.py
+          echo '        time.sleep(1)' >> set_boot.py
+          echo 'os.remove("/bootflash/set_boot.py")' >> set_boot.py
+          event manager applet BOOTCONFIG
+           event syslog pattern "Configured from vty"
+           action 1.0 cli python bootflash:set_boot.py
+          # minimum needed config to login
+          no password strength-check
+          username admin role network-admin
+          username admin password cisco role network-admin
+          username cisco role network-admin
+          username cisco password cisco role network-admin
+          terminal color persist
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n3
+    image_definition: null
+    label: LEAF2
+    node_definition: nxosv9000
+    parameters: {}
+    ram: 7200
+    tags: []
+    x: 68
+    y: 147
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: mgmt0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: Ethernet1/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: Ethernet1/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: Ethernet1/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: Ethernet1/4
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i6
+        label: Ethernet1/5
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i7
+        label: Ethernet1/6
+        mac_address: null
+        type: physical
+        slot: 6
+      - id: i8
+        label: Ethernet1/7
+        mac_address: null
+        type: physical
+        slot: 7
+      - id: i9
+        label: Ethernet1/8
+        mac_address: null
+        type: physical
+        slot: 8
+      - id: i10
+        label: Ethernet1/9
+        mac_address: null
+        type: physical
+        slot: 9
+      - id: i11
+        label: Ethernet1/10
+        mac_address: null
+        type: physical
+        slot: 10
+      - id: i12
+        label: Ethernet1/11
+        mac_address: null
+        type: physical
+        slot: 11
+      - id: i13
+        label: Ethernet1/12
+        mac_address: null
+        type: physical
+        slot: 12
+      - id: i14
+        label: Ethernet1/13
+        mac_address: null
+        type: physical
+        slot: 13
+      - id: i15
+        label: Ethernet1/14
+        mac_address: null
+        type: physical
+        slot: 14
+      - id: i16
+        label: Ethernet1/15
+        mac_address: null
+        type: physical
+        slot: 15
+      - id: i17
+        label: Ethernet1/16
+        mac_address: null
+        type: physical
+        slot: 16
+  - boot_disk_size: null
+    configuration:
+      - name: nxos_config.txt
+        content: |-
+          hostname LEAF3
+          # workaround for booting to loader> prompt
+          echo 'from cli import cli' > set_boot.py
+          echo 'import json' >> set_boot.py
+          echo 'import os' >> set_boot.py
+          echo 'import time' >> set_boot.py
+          echo 'bootimage = json.loads(cli("show version | json"))["nxos_file_name"]' >> set_boot.py
+          echo 'set_boot = cli("conf t ; boot nxos {} ; no event manager applet BOOTCONFIG".format(bootimage))' >> set_boot.py
+          echo 'i = 0' >> set_boot.py
+          echo 'while i < 10:' >> set_boot.py
+          echo '    try:' >> set_boot.py
+          echo '        save_config = cli("copy running-config startup-config")' >> set_boot.py
+          echo '        break' >> set_boot.py
+          echo '    except Exception:' >> set_boot.py
+          echo '        i += 1' >> set_boot.py
+          echo '        time.sleep(1)' >> set_boot.py
+          echo 'os.remove("/bootflash/set_boot.py")' >> set_boot.py
+          event manager applet BOOTCONFIG
+           event syslog pattern "Configured from vty"
+           action 1.0 cli python bootflash:set_boot.py
+          # minimum needed config to login
+          no password strength-check
+          username admin role network-admin
+          username admin password cisco role network-admin
+          username cisco role network-admin
+          username cisco password cisco role network-admin
+          terminal color persist
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n4
+    image_definition: null
+    label: LEAF3
+    node_definition: nxosv9000
+    parameters: {}
+    ram: 7200
+    tags: []
+    x: 350
+    y: 146
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: mgmt0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: Ethernet1/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: Ethernet1/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: Ethernet1/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: Ethernet1/4
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i6
+        label: Ethernet1/5
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i7
+        label: Ethernet1/6
+        mac_address: null
+        type: physical
+        slot: 6
+      - id: i8
+        label: Ethernet1/7
+        mac_address: null
+        type: physical
+        slot: 7
+      - id: i9
+        label: Ethernet1/8
+        mac_address: null
+        type: physical
+        slot: 8
+      - id: i10
+        label: Ethernet1/9
+        mac_address: null
+        type: physical
+        slot: 9
+      - id: i11
+        label: Ethernet1/10
+        mac_address: null
+        type: physical
+        slot: 10
+      - id: i12
+        label: Ethernet1/11
+        mac_address: null
+        type: physical
+        slot: 11
+      - id: i13
+        label: Ethernet1/12
+        mac_address: null
+        type: physical
+        slot: 12
+      - id: i14
+        label: Ethernet1/13
+        mac_address: null
+        type: physical
+        slot: 13
+      - id: i15
+        label: Ethernet1/14
+        mac_address: null
+        type: physical
+        slot: 14
+      - id: i16
+        label: Ethernet1/15
+        mac_address: null
+        type: physical
+        slot: 15
+      - id: i17
+        label: Ethernet1/16
+        mac_address: null
+        type: physical
+        slot: 16
+      - id: i18
+        label: Ethernet1/17
+        mac_address: null
+        type: physical
+        slot: 17
+      - id: i19
+        label: Ethernet1/18
+        mac_address: null
+        type: physical
+        slot: 18
+  - boot_disk_size: null
+    configuration:
+      - name: user-data
+        content: |-
+          #cloud-config
+          hostname: PC1
+          manage_etc_hosts: True
+          system_info:
+            default_user:
+              name: cisco
+          password: cisco
+          chpasswd: { expire: False }
+          ssh_pwauth: True
+          ssh_authorized_keys:
+            - your-ssh-pubkey-line-goes-here
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n5
+    image_definition: null
+    label: PC1
+    node_definition: ubuntu
+    parameters: {}
+    ram: null
+    tags: []
+    x: -390
+    y: 437
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: user-data
+        content: |-
+          #cloud-config
+          hostname: PC2
+          manage_etc_hosts: True
+          system_info:
+            default_user:
+              name: cisco
+          password: cisco
+          chpasswd: { expire: False }
+          ssh_pwauth: True
+          ssh_authorized_keys:
+            - your-ssh-pubkey-line-goes-here
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n6
+    image_definition: null
+    label: PC2
+    node_definition: ubuntu
+    parameters: {}
+    ram: null
+    tags: []
+    x: -284
+    y: 442
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: user-data
+        content: |-
+          #cloud-config
+          hostname: PC3
+          manage_etc_hosts: True
+          system_info:
+            default_user:
+              name: cisco
+          password: cisco
+          chpasswd: { expire: False }
+          ssh_pwauth: True
+          ssh_authorized_keys:
+            - your-ssh-pubkey-line-goes-here
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n7
+    image_definition: null
+    label: PC3
+    node_definition: ubuntu
+    parameters: {}
+    ram: null
+    tags: []
+    x: -96
+    y: 435
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: user-data
+        content: |-
+          #cloud-config
+          hostname: PC4
+          manage_etc_hosts: True
+          system_info:
+            default_user:
+              name: cisco
+          password: cisco
+          chpasswd: { expire: False }
+          ssh_pwauth: True
+          ssh_authorized_keys:
+            - your-ssh-pubkey-line-goes-here
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n8
+    image_definition: null
+    label: PC4
+    node_definition: ubuntu
+    parameters: {}
+    ram: null
+    tags: []
+    x: 0
+    y: 437
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: user-data
+        content: |-
+          #cloud-config
+          hostname: PC7
+          manage_etc_hosts: True
+          system_info:
+            default_user:
+              name: cisco
+          password: cisco
+          chpasswd: { expire: False }
+          ssh_pwauth: True
+          ssh_authorized_keys:
+            - your-ssh-pubkey-line-goes-here
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n9
+    image_definition: null
+    label: PC7
+    node_definition: ubuntu
+    parameters: {}
+    ram: null
+    tags: []
+    x: 427
+    y: 420
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: user-data
+        content: |-
+          #cloud-config
+          hostname: PC8
+          manage_etc_hosts: True
+          system_info:
+            default_user:
+              name: cisco
+          password: cisco
+          chpasswd: { expire: False }
+          ssh_pwauth: True
+          ssh_authorized_keys:
+            - your-ssh-pubkey-line-goes-here
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n10
+    image_definition: null
+    label: PC8
+    node_definition: ubuntu
+    parameters: {}
+    ram: null
+    tags: []
+    x: 514
+    y: 416
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: user-data
+        content: |-
+          #cloud-config
+          hostname: PC5
+          manage_etc_hosts: True
+          system_info:
+            default_user:
+              name: cisco
+          password: cisco
+          chpasswd: { expire: False }
+          ssh_pwauth: True
+          ssh_authorized_keys:
+            - your-ssh-pubkey-line-goes-here
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n11
+    image_definition: null
+    label: PC5
+    node_definition: ubuntu
+    parameters: {}
+    ram: null
+    tags: []
+    x: 146
+    y: 431
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: user-data
+        content: |-
+          #cloud-config
+          hostname: PC6
+          manage_etc_hosts: True
+          system_info:
+            default_user:
+              name: cisco
+          password: cisco
+          chpasswd: { expire: False }
+          ssh_pwauth: True
+          ssh_authorized_keys:
+            - your-ssh-pubkey-line-goes-here
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n12
+    image_definition: null
+    label: PC6
+    node_definition: ubuntu
+    parameters: {}
+    ram: null
+    tags: []
+    x: 238
+    y: 426
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+links:
+  - id: l0
+    n1: n0
+    n2: n1
+    i1: i2
+    i2: i2
+    conditioning: {}
+    label: nxos9000-0-Ethernet1/1<->nxos9000-1-Ethernet1/1
+  - id: l1
+    n1: n0
+    n2: n1
+    i1: i3
+    i2: i3
+    conditioning: {}
+    label: nxos9000-0-Ethernet1/2<->nxos9000-1-Ethernet1/2
+  - id: l2
+    n1: n0
+    n2: n2
+    i1: i12
+    i2: i2
+    conditioning: {}
+    label: nxos9000-0-Ethernet1/11<->nxos9000-2-Ethernet1/1
+  - id: l3
+    n1: n3
+    n2: n0
+    i1: i2
+    i2: i13
+    conditioning: {}
+    label: nxos9000-3-Ethernet1/1<->nxos9000-0-Ethernet1/12
+  - id: l4
+    n1: n3
+    n2: n1
+    i1: i3
+    i2: i13
+    conditioning: {}
+    label: nxos9000-3-Ethernet1/2<->nxos9000-1-Ethernet1/12
+  - id: l5
+    n1: n1
+    n2: n2
+    i1: i12
+    i2: i3
+    conditioning: {}
+    label: nxos9000-1-Ethernet1/11<->nxos9000-2-Ethernet1/2
+  - id: l6
+    n1: n0
+    n2: n4
+    i1: i14
+    i2: i2
+    conditioning: {}
+    label: nxos9000-0-Ethernet1/13<->nxos9000-4-Ethernet1/1
+  - id: l7
+    n1: n1
+    n2: n4
+    i1: i14
+    i2: i3
+    conditioning: {}
+    label: nxos9000-1-Ethernet1/13<->nxos9000-4-Ethernet1/2
+  - id: l8
+    n1: n2
+    n2: n5
+    i1: i12
+    i2: i0
+    conditioning: {}
+    label: nxos9000-2-Ethernet1/11<->ubuntu-0-ens2
+  - id: l9
+    n1: n2
+    n2: n6
+    i1: i13
+    i2: i0
+    conditioning: {}
+    label: nxos9000-2-Ethernet1/12<->ubuntu-1-ens2
+  - id: l10
+    n1: n11
+    n2: n3
+    i1: i0
+    i2: i16
+    conditioning: {}
+    label: ubuntu-6-ens2<->nxos9000-3-Ethernet1/15
+  - id: l11
+    n1: n3
+    n2: n12
+    i1: i17
+    i2: i0
+    conditioning: {}
+    label: nxos9000-3-Ethernet1/16<->ubuntu-7-ens2
+  - id: l12
+    n1: n3
+    n2: n7
+    i1: i14
+    i2: i0
+    conditioning: {}
+    label: nxos9000-3-Ethernet1/13<->ubuntu-2-ens2
+  - id: l13
+    n1: n3
+    n2: n8
+    i1: i15
+    i2: i0
+    conditioning: {}
+    label: nxos9000-3-Ethernet1/14<->ubuntu-3-ens2
+  - id: l14
+    n1: n4
+    n2: n9
+    i1: i18
+    i2: i0
+    conditioning: {}
+    label: nxos9000-4-Ethernet1/17<->ubuntu-4-ens2
+  - id: l15
+    n1: n4
+    n2: n10
+    i1: i19
+    i2: i0
+    conditioning: {}
+    label: nxos9000-4-Ethernet1/18<->ubuntu-5-ens2
+lab:
+  description: ''
+  notes: ''
+  title: VXLAN BGP EVPN
+  version: 0.3.0

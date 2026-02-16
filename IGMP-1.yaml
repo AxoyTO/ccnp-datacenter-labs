@@ -1,0 +1,650 @@
+annotations:
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: 192.168.1.0/24
+    text_font: monospace
+    text_italic: false
+    text_size: 10
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -840.0
+    y1: -200.0
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: 192.168.14.0/24
+    text_font: monospace
+    text_italic: false
+    text_size: 10
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -600.0
+    y1: -200.0
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: 192.168.23.0/24
+    text_font: monospace
+    text_italic: false
+    text_size: 10
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -560.0
+    y1: 40.0
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 345
+    text_bold: false
+    text_content: 192.168.4.0/24
+    text_font: monospace
+    text_italic: false
+    text_size: 10
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -281.0864378834943
+    y1: -182.04328892258542
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: 192.168.3.0/24
+    text_font: monospace
+    text_italic: false
+    text_size: 10
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -840.0
+    y1: 0.0
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 33
+    text_bold: false
+    text_content: 192.168.12.0/24
+    text_font: monospace
+    text_italic: false
+    text_size: 10
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -566.4071916504299
+    y1: -88.20080847401374
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 80
+    text_bold: false
+    text_content: 192.168.24.0/24
+    text_font: monospace
+    text_italic: false
+    text_size: 10
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -363.76078877223085
+    y1: -65.74244186232983
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: '.1'
+    text_font: monospace
+    text_italic: false
+    text_size: 10
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -880.0
+    y1: -120.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: '.3'
+    text_font: monospace
+    text_italic: false
+    text_size: 10
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -880.0
+    y1: 80.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: '.254'
+    text_font: monospace
+    text_italic: false
+    text_size: 10
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -720.0
+    y1: 80.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: '.254'
+    text_font: monospace
+    text_italic: false
+    text_size: 10
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -720.0
+    y1: -120.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: '.3'
+    text_font: monospace
+    text_italic: false
+    text_size: 10
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -640.0
+    y1: 80.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: '.2'
+    text_font: monospace
+    text_italic: false
+    text_size: 10
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -360.0
+    y1: 120.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: '.2'
+    text_font: monospace
+    text_italic: false
+    text_size: 10
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -320.0
+    y1: 40.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: '.2'
+    text_font: monospace
+    text_italic: false
+    text_size: 10
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -400.0
+    y1: 0.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: '.1'
+    text_font: monospace
+    text_italic: false
+    text_size: 10
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -600.0
+    y1: -120.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: '.1'
+    text_font: monospace
+    text_italic: false
+    text_size: 10
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -680.0
+    y1: -200.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: '.4'
+    text_font: monospace
+    text_italic: false
+    text_size: 10
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -120.0
+    y1: -280.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: '.4'
+    text_font: monospace
+    text_italic: false
+    text_size: 10
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -400.0
+    y1: -200.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: '.4'
+    text_font: monospace
+    text_italic: false
+    text_size: 10
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -400.0
+    y1: -120.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: '.254'
+    text_font: monospace
+    text_italic: false
+    text_size: 10
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -320.0
+    y1: -200.0
+    z_index: 1
+smart_annotations: []
+nodes:
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: hostname R1
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n0
+    image_definition: null
+    label: R1
+    node_definition: iosv
+    parameters: {}
+    ram: null
+    tags: []
+    x: -680
+    y: -160
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: hostname R3
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n1
+    image_definition: null
+    label: R3
+    node_definition: iosv
+    parameters: {}
+    ram: null
+    tags: []
+    x: -680
+    y: 40
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: hostname R4
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n2
+    image_definition: null
+    label: R4
+    node_definition: iosv
+    parameters: {}
+    ram: null
+    tags: []
+    x: -360
+    y: -160
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: hostname R2
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n3
+    image_definition: null
+    label: R2
+    node_definition: iosv
+    parameters: {}
+    ram: null
+    tags: []
+    x: -320
+    y: 80
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: user-data
+        content: |-
+          #cloud-config
+          hostname: server-ubuntu
+          manage_etc_hosts: True
+          system_info:
+            default_user:
+              name: cisco
+          password: cisco
+          chpasswd: { expire: False }
+          ssh_pwauth: True
+          ssh_authorized_keys:
+            - your-ssh-pubkey-line-goes-here
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n4
+    image_definition: null
+    label: Server
+    node_definition: ubuntu
+    parameters: {}
+    ram: null
+    tags: []
+    x: -920
+    y: -160
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: user-data
+        content: |-
+          #cloud-config
+          hostname: h3-ubuntu
+          manage_etc_hosts: True
+          system_info:
+            default_user:
+              name: cisco
+          password: cisco
+          chpasswd: { expire: False }
+          ssh_pwauth: True
+          ssh_authorized_keys:
+            - your-ssh-pubkey-line-goes-here
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n5
+    image_definition: null
+    label: H3 (Ubuntu)
+    node_definition: ubuntu
+    parameters: {}
+    ram: null
+    tags: []
+    x: -920
+    y: 40
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: user-data
+        content: |-
+          #cloud-config
+          hostname: h4-ubuntu
+          manage_etc_hosts: True
+          system_info:
+            default_user:
+              name: cisco
+          password: cisco
+          chpasswd: { expire: False }
+          ssh_pwauth: True
+          ssh_authorized_keys:
+            - your-ssh-pubkey-line-goes-here
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n6
+    image_definition: null
+    label: H4 (Ubuntu)
+    node_definition: ubuntu
+    parameters: {}
+    ram: null
+    tags: []
+    x: -80
+    y: -240
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+links:
+  - id: l0
+    n1: n4
+    n2: n0
+    i1: i0
+    i2: i4
+    conditioning: {}
+    label: Server-ens2<->R1-GigabitEthernet0/3
+  - id: l1
+    n1: n0
+    n2: n2
+    i1: i3
+    i2: i2
+    conditioning: {}
+    label: R1-GigabitEthernet0/2<->R4-GigabitEthernet0/1
+  - id: l2
+    n1: n0
+    n2: n3
+    i1: i2
+    i2: i2
+    conditioning: {}
+    label: R1-GigabitEthernet0/1<->R2-GigabitEthernet0/1
+  - id: l3
+    n1: n1
+    n2: n3
+    i1: i2
+    i2: i4
+    conditioning: {}
+    label: R3-GigabitEthernet0/1<->R2-GigabitEthernet0/3
+  - id: l4
+    n1: n5
+    n2: n1
+    i1: i0
+    i2: i3
+    conditioning: {}
+    label: H3 (Ubuntu)-ens2<->R3-GigabitEthernet0/2
+  - id: l5
+    n1: n2
+    n2: n6
+    i1: i4
+    i2: i0
+    conditioning: {}
+    label: R4-GigabitEthernet0/3<->H4 (Ubuntu)-ens2
+  - id: l6
+    n1: n2
+    n2: n3
+    i1: i3
+    i2: i3
+    conditioning: {}
+    label: R4-GigabitEthernet0/2<->R2-GigabitEthernet0/2
+  - id: l7
+    n1: n0
+    n2: n1
+    i1: i1
+    i2: i1
+    conditioning: {}
+    label: R1-GigabitEthernet0/0<->R3-GigabitEthernet0/0
+lab:
+  description: ''
+  notes: ''
+  title: IGMP-1
+  version: 0.3.0

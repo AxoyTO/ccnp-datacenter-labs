@@ -1,0 +1,694 @@
+annotations:
+  - border_color: '#808080FF'
+    border_radius: 0
+    border_style: 4,2
+    color: '#FFFFFF0A'
+    rotation: 0
+    thickness: 1
+    type: rectangle
+    x1: -366.492994006147
+    y1: -213.48517227176978
+    x2: 677.3476226701152
+    y2: 279.632280588946
+    z_index: 0
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#FFFFFF0E'
+    rotation: 0
+    thickness: 1
+    type: ellipse
+    x1: -170.17084882582506
+    y1: 162.31250232842456
+    x2: 100.69659845042352
+    y2: 12.5
+    z_index: 1
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#FFFFFF1A'
+    rotation: 0
+    thickness: 1
+    type: ellipse
+    x1: 94.0843155704952
+    y1: 159.41475848812462
+    x2: 99.03842403645383
+    y2: 12.5
+    z_index: 2
+  - border_color: '#808080FF'
+    border_style: 4,2
+    color: '#FFFFFF18'
+    rotation: 0
+    thickness: 1
+    type: ellipse
+    x1: 87.18081732891062
+    y1: 113.59766370208796
+    x2: 85.5
+    y2: 17.74868102183725
+    z_index: 3
+  - border_color: '#808080FF'
+    border_style: 4,2
+    color: '#FFFFFF16'
+    rotation: 0
+    thickness: 1
+    type: ellipse
+    x1: -150.31918267108938
+    y1: 115.77097158231291
+    x2: 82.0
+    y2: 18.47311698191224
+    z_index: 4
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: vPC 100
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -176.69077246649994
+    y1: 111.06213784182549
+    z_index: 5
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: vPC 110
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 53.11144907314734
+    y1: 106.14710831717613
+    z_index: 5
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: VLAN 100,300
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 169.35053276124623
+    y1: 124.22343595035207
+    z_index: 5
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: VLAN 200,400
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -351.6494672387538
+    y1: 126.22343595035207
+    z_index: 5
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#FFFFFF14'
+    rotation: 0
+    thickness: 1
+    type: ellipse
+    x1: -30.214196984731792
+    y1: -90.01320887957348
+    x2: 12.5
+    y2: 31.0
+    z_index: 6
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: Port-Channel 10
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -94.63457117613336
+    y1: -48.72404346633206
+    z_index: 7
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#FFFFFFFF'
+    line_end: arrow
+    line_start: null
+    thickness: 1
+    type: line
+    x1: 168.1681760702048
+    y1: -255.37902275499556
+    x2: -16.65156012380748
+    y2: -115.78943297133229
+    z_index: 8
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: Peer Link
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 140.87412220189074
+    y1: -276.43443573912356
+    z_index: 9
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#FFFFFFFF'
+    line_end: arrow
+    line_start: null
+    thickness: 1
+    type: line
+    x1: -235.78382118084312
+    y1: -253.03953242342578
+    x2: -124.26811537601716
+    y2: -154.00110838697196
+    z_index: 10
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: Peer Keepalive "Link"
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -350.19018306444826
+    y1: -275.4259412652866
+    z_index: 9
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: VPC Domain 10
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -354.4353600930083
+    y1: -200.15638174840782
+    z_index: 11
+smart_annotations: []
+nodes:
+  - boot_disk_size: null
+    configuration:
+      - name: nxos_config.txt
+        content: |-
+          hostname nxosv9300
+          # workaround for booting to loader> prompt
+          echo 'from cli import cli' > set_boot.py
+          echo 'import json' >> set_boot.py
+          echo 'import os' >> set_boot.py
+          echo 'import time' >> set_boot.py
+          echo 'bootimage = json.loads(cli("show version | json"))["nxos_file_name"]' >> set_boot.py
+          echo 'set_boot = cli("conf t ; boot nxos {} ; no event manager applet BOOTCONFIG".format(bootimage))' >> set_boot.py
+          echo 'i = 0' >> set_boot.py
+          echo 'while i < 10:' >> set_boot.py
+          echo '    try:' >> set_boot.py
+          echo '        save_config = cli("copy running-config startup-config")' >> set_boot.py
+          echo '        break' >> set_boot.py
+          echo '    except Exception:' >> set_boot.py
+          echo '        i += 1' >> set_boot.py
+          echo '        time.sleep(1)' >> set_boot.py
+          echo 'os.remove("/bootflash/set_boot.py")' >> set_boot.py
+          event manager applet BOOTCONFIG
+           event syslog pattern "Configured from vty"
+           action 1.0 cli python bootflash:set_boot.py
+          # minimum needed config to login
+          no password strength-check
+          username admin role network-admin
+          username admin password cisco role network-admin
+          username cisco role network-admin
+          username cisco password cisco role network-admin
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n0
+    image_definition: null
+    label: NXSW1
+    node_definition: nxosv9000
+    parameters: {}
+    ram: null
+    tags: []
+    x: -239
+    y: -89
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: mgmt0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: Ethernet1/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: Ethernet1/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: Ethernet1/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: Ethernet1/4
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i6
+        label: Ethernet1/5
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i7
+        label: Ethernet1/6
+        mac_address: null
+        type: physical
+        slot: 6
+      - id: i8
+        label: Ethernet1/7
+        mac_address: null
+        type: physical
+        slot: 7
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n1
+    image_definition: null
+    label: NXSW2
+    node_definition: nxosv9000
+    parameters: {}
+    ram: null
+    tags: []
+    x: 184
+    y: -91
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: mgmt0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: Ethernet1/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: Ethernet1/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: Ethernet1/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: Ethernet1/4
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i6
+        label: Ethernet1/5
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i7
+        label: Ethernet1/6
+        mac_address: null
+        type: physical
+        slot: 6
+      - id: i8
+        label: Ethernet1/7
+        mac_address: null
+        type: physical
+        slot: 7
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n2
+    image_definition: null
+    label: SW3
+    node_definition: iosvl2
+    parameters: {}
+    ram: null
+    tags: []
+    x: -217
+    y: 223
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: GigabitEthernet1/0
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i6
+        label: GigabitEthernet1/1
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i7
+        label: GigabitEthernet1/2
+        mac_address: null
+        type: physical
+        slot: 6
+      - id: i8
+        label: GigabitEthernet1/3
+        mac_address: null
+        type: physical
+        slot: 7
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n3
+    image_definition: null
+    label: SW4
+    node_definition: iosvl2
+    parameters: {}
+    ram: null
+    tags: []
+    x: 151
+    y: 222
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: GigabitEthernet1/0
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i6
+        label: GigabitEthernet1/1
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i7
+        label: GigabitEthernet1/2
+        mac_address: null
+        type: physical
+        slot: 6
+      - id: i8
+        label: GigabitEthernet1/3
+        mac_address: null
+        type: physical
+        slot: 7
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n4
+    image_definition: null
+    label: OOB-SW
+    node_definition: iosvl2
+    parameters: {}
+    ram: null
+    tags: []
+    x: -32
+    y: -185
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: GigabitEthernet1/0
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i6
+        label: GigabitEthernet1/1
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i7
+        label: GigabitEthernet1/2
+        mac_address: null
+        type: physical
+        slot: 6
+      - id: i8
+        label: GigabitEthernet1/3
+        mac_address: null
+        type: physical
+        slot: 7
+  - boot_disk_size: null
+    configuration:
+      - name: user-data
+        content: |-
+          #cloud-config
+          hostname: ubuntu-1
+          manage_etc_hosts: True
+          system_info:
+            default_user:
+              name: cisco
+          password: cisco
+          chpasswd: { expire: False }
+          ssh_pwauth: True
+          ssh_authorized_keys:
+            - your-ssh-pubkey-line-goes-here
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n5
+    image_definition: null
+    label: ubuntu-1
+    node_definition: ubuntu
+    parameters: {}
+    ram: null
+    tags: []
+    x: -486
+    y: 222
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: user-data
+        content: |-
+          #cloud-config
+          hostname: ubuntu-2
+          manage_etc_hosts: True
+          system_info:
+            default_user:
+              name: cisco
+          password: cisco
+          chpasswd: { expire: False }
+          ssh_pwauth: True
+          ssh_authorized_keys:
+            - your-ssh-pubkey-line-goes-here
+      - name: network-config
+        content: |-
+          #network-config
+          network:
+            version: 2
+            ethernets:
+              ens2:
+                dhcp4: true
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n6
+    image_definition: null
+    label: ubuntu-2
+    node_definition: ubuntu
+    parameters: {}
+    ram: null
+    tags: []
+    x: 463
+    y: 227
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+links:
+  - id: l0
+    n1: n0
+    n2: n1
+    i1: i2
+    i2: i2
+    conditioning: {}
+    label: NXSW1-Ethernet1/1<->NXSW2-Ethernet1/1
+  - id: l1
+    n1: n0
+    n2: n1
+    i1: i3
+    i2: i3
+    conditioning: {}
+    label: NXSW1-Ethernet1/2<->NXSW2-Ethernet1/2
+  - id: l2
+    n1: n2
+    n2: n0
+    i1: i1
+    i2: i4
+    conditioning: {}
+    label: SW3-GigabitEthernet0/0<->NXSW1-Ethernet1/3
+  - id: l3
+    n1: n2
+    n2: n1
+    i1: i2
+    i2: i4
+    conditioning: {}
+    label: SW3-GigabitEthernet0/1<->NXSW2-Ethernet1/3
+  - id: l4
+    n1: n3
+    n2: n1
+    i1: i1
+    i2: i5
+    conditioning: {}
+    label: SW4-GigabitEthernet0/0<->NXSW2-Ethernet1/4
+  - id: l5
+    n1: n3
+    n2: n0
+    i1: i2
+    i2: i5
+    conditioning: {}
+    label: SW4-GigabitEthernet0/1<->NXSW1-Ethernet1/4
+  - id: l6
+    n1: n0
+    n2: n4
+    i1: i6
+    i2: i1
+    conditioning: {}
+    label: NXSW1-Ethernet1/5<->OOB-SW-GigabitEthernet0/0
+  - id: l7
+    n1: n4
+    n2: n1
+    i1: i2
+    i2: i6
+    conditioning: {}
+    label: OOB-SW-GigabitEthernet0/1<->NXSW2-Ethernet1/5
+  - id: l8
+    n1: n5
+    n2: n2
+    i1: i0
+    i2: i3
+    conditioning: {}
+    label: ubuntu-1-ens2<->SW3-GigabitEthernet0/2
+  - id: l9
+    n1: n6
+    n2: n3
+    i1: i0
+    i2: i3
+    conditioning: {}
+    label: ubuntu-2-ens2<->SW4-GigabitEthernet0/2
+lab:
+  description: ''
+  notes: ''
+  title: vPC
+  version: 0.3.0
